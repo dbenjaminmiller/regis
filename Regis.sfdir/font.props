@@ -1,0 +1,64 @@
+SplineFontDB: 3.0
+FontName: Regis
+FullName: Regis
+FamilyName: Regis
+Weight: Regular
+Copyright: Copyright (c) 2019 D. Benjamin Miller
+UComments: "Still in testing! Based on Pierre-Simon Fournier's designs."
+FontLog: "Contributors+AAoA* D. Benjamin Miller"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 700
+Descent: 300
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 165 2128061049 5703666]
+BaseHoriz: 1 'romn'
+BaseScript: 'ÿÿÿÿ' 0  0
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1550043543
+ModificationTime: 1551362109
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2FamilyClass: 512
+OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "Latin Ligatures" { "Latin Ligatures-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Î¤ÎµÎ§ Names
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 0
+WidthSeparation: 50
+WinInfo: 0 29 13
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 262144 131072 87381 468713 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont
