@@ -1,6 +1,6 @@
 StartChar: h
 Encoding: 104 104 6
-Width: 584
+Width: 569
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -34,4 +34,5 @@ SplineSet
  258.478515625 405 204.579101562 365.594726562 176.5 341.75390625 c 1
  176.5 75 l 2
 EndSplineSet
+Validated: 1
 EndChar

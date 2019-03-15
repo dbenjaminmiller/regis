@@ -1,11 +1,11 @@
 StartChar: z
 Encoding: 122 122 35
-Width: 553
+Width: 556
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 Back
-Image: 91 113 1 91 256 ffffffff -62 554 5.38372 5.50442 0
+Image: 91 113 1 91 256 ffffffff -59 554 5.38372 5.50442 0
 !!!!"!<E6'!WrN,"9\i2"U,)7"pYA<#RC\B#mgqG$4@4L$k*OR%1NdW%M''\&.fBb&J5Wg&ebol
 'GM5r'bqK"()Ic'(`4)-)&X>2)B0V7*#oq=*??1B*ZlIG+<VdM+X&$R+sS<W,U=W],palb-7:/g
 -n$Jm.4H_r.P!#"/1`>(/M/S-/h\k20JG180ekF=1,C^B1c.$H2)R9M2E*QR3&ilX3B9,]3]fDb
@@ -194,19 +194,18 @@ o_/"Pp@\%HmHNg7
 EndImage
 Fore
 SplineSet
-136 49 m 13
- 288 52 l 1
- 348 157 l 25
- 389 160 l 25
- 379 0 l 25
- 13 4 l 25
- 29 52 l 9
- 252 395 l 25
- 98 396 l 25
- 74 311 l 25
- 40 313 l 25
- 50 444 l 25
- 384 444 l 25
- 136 49 l 13
+135 41 m 9
+ 287 44 l 1
+ 351 157 l 25
+ 392 160 l 25
+ 382 0 l 25
+ 16 4 l 25
+ 265 404 l 25
+ 110 405 l 25
+ 77 311 l 25
+ 43 313 l 25
+ 53 444 l 25
+ 382 444 l 25
+ 135 41 l 9
 EndSplineSet
 EndChar
