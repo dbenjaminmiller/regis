@@ -2,7 +2,7 @@ StartChar: d
 Encoding: 100 100 16
 Width: 514
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
