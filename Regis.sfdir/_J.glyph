@@ -2,9 +2,7 @@ StartChar: J
 Encoding: 74 74 47
 Width: 355
 VWidth: 0
-Flags: W
-HStem: -170 60<105.274 160.05> 655 45<105.785 173.75 268.275 337.215>
-VStem: 24 78<-108.01 -47.7224> 175 92<-99.6387 648.231>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
